@@ -1,6 +1,6 @@
 # Downtime Monitoring System
 
-Deployed at - [https://downtime-monitor.web.app/](https://downtime-monitor.web.app/)
+Deployed at - [https://website-monitoring1.herokuapp.com/](https://website-monitoring1.herokuapp.com//)
 
 ## Screenshots
 ![home-page](https://github.com/shamoilarsi/downtime-monitor/blob/master/readme/s1.png)
